@@ -4,4 +4,4 @@ A download link used for jumping to the app (Android or iOS) detail page accordi
 
 # Example
 The Xiuche App download QR image is shown below:
-![](http://xiuche.saeapp.com/download_qr.jpg "xiuche")
+![](http://xiuche.sinaapp.com/download_qr.jpg "xiuche")
